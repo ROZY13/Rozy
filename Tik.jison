@@ -1,0 +1,1 @@
+["rozy__marka"]
